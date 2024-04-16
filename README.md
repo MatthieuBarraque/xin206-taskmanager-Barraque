@@ -11,6 +11,6 @@ Un programme rudimentaire de gestion de tâches en python.
 - `contributeur-3`: Joao Gabriel Marques Dinis
 
 ## Fork urls
-- `contributeur-1`: [xin206-taskmanager-bar-b](url-1)
+- `contributeur-1`: [xin206-taskmanager-achouchi](https://github.com/Enayarefrei/xin206-taskmanager-achouchi)
 - `contributeur-2`: [xin206-taskmanager-wizz-b](url-2)
 - `contributeur-3`: [xin206-taskmanager-toto-b](url-3)
