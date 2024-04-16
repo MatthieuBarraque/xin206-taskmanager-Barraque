@@ -11,12 +11,6 @@ Un programme rudimentaire de gestion de tâches en python.
 - `contributeur-3`: Joao Gabriel Marques Dinis
 
 ## Fork urls
-<<<<<<< HEAD
 - `contributeur-1`: [xin206-taskmanager-bar-b](url-1)
 - `contributeur-2`: [xin206-taskmanager-Vovard-b](https://github.com/Math-Vov13/xin206-taskmanager-Vovard-2)
 - `contributeur-3`: [xin206-taskmanager-toto-b](url-3)
-=======
-- `contributeur-1`: [xin206-taskmanager-achouchi](https://github.com/Enayarefrei/xin206-taskmanager-achouchi)
-- `contributeur-2`: [xin206-taskmanager-wizz-b](url-2)
-- `contributeur-3`: [xin206-taskmanager-toto-b](url-3)
->>>>>>> 535835d28903c43e6a689b91878e05ca206b15a1
