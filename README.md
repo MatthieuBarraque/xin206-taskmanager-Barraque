@@ -12,5 +12,5 @@ Un programme rudimentaire de gestion de tâches en python.
 
 ## Fork urls
 - `contributeur-1`: [xin206-taskmanager-bar-b](url-1)
-- `contributeur-2`: [xin206-taskmanager-wizz-b](url-2)
+- `contributeur-2`: [xin206-taskmanager-Vovard-b](https://github.com/Math-Vov13/xin206-taskmanager-Vovard-2)
 - `contributeur-3`: [xin206-taskmanager-toto-b](url-3)
